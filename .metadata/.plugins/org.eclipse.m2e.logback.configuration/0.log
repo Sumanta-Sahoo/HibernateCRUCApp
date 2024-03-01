@@ -1,0 +1,23 @@
+2024-03-01 19:45:43,380 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-01 19:46:43,221 [Worker-18: Creating project "HibernateCRUDApp"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: app.hibernate.CRUD:HibernateCRUDApp:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Git Projects\HibernateCRUDApp\HibernateCRUDApp\pom.xml.
+2024-03-01 19:46:44,394 [Worker-18: Creating project "HibernateCRUDApp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateCRUDApp/src/main/java
+2024-03-01 19:46:44,397 [Worker-18: Creating project "HibernateCRUDApp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateCRUDApp/src/main/resources
+2024-03-01 19:46:44,399 [Worker-18: Creating project "HibernateCRUDApp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateCRUDApp/src/test/java
+2024-03-01 19:46:44,399 [Worker-18: Creating project "HibernateCRUDApp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateCRUDApp/src/test/resources
+2024-03-01 19:46:46,226 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-01 19:46:46,238 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-01 19:46:46,242 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-01 19:46:46,244 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-01 19:46:53,424 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-01 19:46:53,428 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-01 19:46:53,430 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-01 19:46:53,433 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-01 19:47:01,750 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-01 19:47:02,984 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: app.hibernate.CRUD:HibernateCRUDApp:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Git Projects\HibernateCRUDApp\HibernateCRUDApp\pom.xml.
+2024-03-01 19:47:03,449 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateCRUDApp/src/main/java
+2024-03-01 19:47:03,450 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateCRUDApp/src/main/resources
+2024-03-01 19:47:03,451 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateCRUDApp/src/test/java
+2024-03-01 19:47:03,452 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateCRUDApp/src/test/resources
+2024-03-01 19:47:03,515 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-03-01 19:47:03,733 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-01 19:47:03,740 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
